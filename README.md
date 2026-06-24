@@ -29,6 +29,8 @@ Smart water tank monitoring and auto pump control using ESP32 + HC-SR04 + Blynk 
 | VIN (5V) | Relay Module | VCC |
 | GND | HC-SR04 + Relay | GND |
 
+![Circuit Diagram](circuit-diagram.jpeg)
+
 ### Blynk IoT Setup
 1. **Create Template** in Blynk.Console: `Smart water tank monitor`
 2. **Add Datastreams**:
